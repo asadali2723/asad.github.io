@@ -6,7 +6,7 @@ baseurl: ""  # Leave this empty if your site is at the root of the domain
 url: "https://asadali2723.github.io"  # Your GitHub Pages URL
 twitter_username: "your_twitter_handle"  # Optional: Replace with your Twitter handle
 github_username: "asadali2723"  # Your GitHub username
-theme: "minimal-mistakes-jekyll"  # You are using the Minimal Mistakes theme
+# theme: "minimal-mistakes-jekyll"  # You are using the Minimal Mistakes theme
 
 # Build settings
 plugins:

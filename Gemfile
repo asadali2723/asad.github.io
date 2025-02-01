@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # Use the "minimal-mistakes-jekyll" theme
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
 
 # Plugins to extend Jekyll functionality
 group :jekyll_plugins do
